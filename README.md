@@ -15,6 +15,3 @@ This project investigates customer behavior and booking patterns in the hospital
 
 ## 🚀 Conclusion
 These insights allow for a better understanding of booking strategies and customer intent, which can be used to optimize operational management.
-
----
-*Created as part of the Data Analyst Program.*
